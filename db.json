@@ -1,0 +1,82 @@
+{
+  "profesores": [
+    {
+      "nombre": "Brandy",
+      "apellido": "Reque",
+      "materias": [
+        {
+          "nombre": "nodejs desde cero"
+        },
+        {
+          "nombre": "reactjs desde cero"
+        },
+        {
+          "nombre": "javaScript dede cero"
+        }
+      ],
+      "id": "4552"
+    },
+    {
+      "nombre": "Tomy",
+      "apellido": "Chavez",
+      "materias": [
+        {
+          "nombre": "figma desde cero"
+        },
+        {
+          "nombre": "reactjs desde cero"
+        },
+        {
+          "nombre": "angular desde cero"
+        }
+      ],
+      "id": "8e39"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.5,
+      "id": "fd86"
+    },
+    {
+      "nombre": "mario",
+      "apellido": "Rodriguez",
+      "promedio": 8.5,
+      "id": "d886"
+    },
+    {
+      "nombre": "mariana",
+      "apellido": "Rodriguez",
+      "promedio": 8.5,
+      "id": "0a4f"
+    },
+    {
+      "id": "e2e6",
+      "nombre": "mariano",
+      "apellido": "Rodriguez",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Nodejs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "2a24"
+    },
+    {
+      "nombre": "Reactjs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "0432"
+    },
+    {
+      "nombre": "Angular 17 desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "620c"
+    }
+  ]
+}
